@@ -1,0 +1,11 @@
+C:\Users\WIndows 10\source\repos\HomeworkPhilippine\obj\Debug\netcoreapp2.1\HomeworkPhilippine.csprojAssemblyReference.cache
+C:\Users\WIndows 10\source\repos\HomeworkPhilippine\obj\Debug\netcoreapp2.1\HomeworkPhilippine.csproj.CoreCompileInputs.cache
+C:\Users\WIndows 10\source\repos\HomeworkPhilippine\obj\Debug\netcoreapp2.1\HomeworkPhilippine.AssemblyInfoInputs.cache
+C:\Users\WIndows 10\source\repos\HomeworkPhilippine\obj\Debug\netcoreapp2.1\HomeworkPhilippine.AssemblyInfo.cs
+C:\Users\WIndows 10\source\repos\HomeworkPhilippine\bin\Debug\netcoreapp2.1\HomeworkPhilippine.deps.json
+C:\Users\WIndows 10\source\repos\HomeworkPhilippine\bin\Debug\netcoreapp2.1\HomeworkPhilippine.runtimeconfig.json
+C:\Users\WIndows 10\source\repos\HomeworkPhilippine\bin\Debug\netcoreapp2.1\HomeworkPhilippine.runtimeconfig.dev.json
+C:\Users\WIndows 10\source\repos\HomeworkPhilippine\bin\Debug\netcoreapp2.1\HomeworkPhilippine.dll
+C:\Users\WIndows 10\source\repos\HomeworkPhilippine\bin\Debug\netcoreapp2.1\HomeworkPhilippine.pdb
+C:\Users\WIndows 10\source\repos\HomeworkPhilippine\obj\Debug\netcoreapp2.1\HomeworkPhilippine.dll
+C:\Users\WIndows 10\source\repos\HomeworkPhilippine\obj\Debug\netcoreapp2.1\HomeworkPhilippine.pdb
